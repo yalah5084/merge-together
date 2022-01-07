@@ -4,7 +4,7 @@ Seaweed
 Cats
 Pizza
 Chinese BBQ pork
-Burger
+Sandwich
 Dumplings
 Pho
 Beef
